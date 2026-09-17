@@ -40,4 +40,6 @@
 
 ## 혈액형
 ### A형
+
+![A형](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoMtPyfU9I6Vgml-FqQ3xnf6xGNBp3_H7ai7-ivQb_FEiABjeClqnWygO0&s=10)
  
