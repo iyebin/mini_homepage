@@ -8,7 +8,12 @@
 
 ## footer 추가
 
+---------
 
+# Side Project
+
+## SIDEBAR
+- 사이드 바를 추가합니다.
 
 ## SERCH 추가
 - search 파일을 추가합니다.
