@@ -17,3 +17,5 @@
 
 ## SERCH 추가
 - search 파일을 추가합니다.
+
+## footer 다시 추가
